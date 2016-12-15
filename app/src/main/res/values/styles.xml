@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+
+        <!-- Customize your theme here.
+        <item name="colorPrimary">@color/branco</item>
+        <item name="colorSecondary">@color/azul</item>
+        <item name="colorAccent">@color/cinzahashtag</item>
+        <item name="colorCinza">@color/cinzaescuro</item>
+        -->
+    </style>
+
+</resources>

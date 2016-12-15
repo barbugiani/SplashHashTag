@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SplashHashTag</string>
+
+    <!-- Strings relacionads ao Splash-->
+    <string name="Carregando">Carregando HashTag</string>
+
+    <!-- Strings relacionadas ao login -->
+    <string name="Telefone">Digite o número do seu telefone</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="telefone_invalido">Telefone inválido</string>
+    <string name="senha_invalida">Senha inválida</string>
+    <string name="error_field_required">Campo obrigatório</string>
+    <string name="entrar_com_facebook">Entrar com Facebook</string>
+    <string name="esqueci_minha_senha">Esqueci minha senha</string>
+
+
+
+
+
+</resources>
